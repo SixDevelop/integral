@@ -1,0 +1,12 @@
+/Users/sergey/Documents/GitHub/integral/bin/Debug/netcoreapp3.1/integral.deps.json
+/Users/sergey/Documents/GitHub/integral/bin/Debug/netcoreapp3.1/integral.runtimeconfig.json
+/Users/sergey/Documents/GitHub/integral/bin/Debug/netcoreapp3.1/integral.runtimeconfig.dev.json
+/Users/sergey/Documents/GitHub/integral/bin/Debug/netcoreapp3.1/integral.dll
+/Users/sergey/Documents/GitHub/integral/bin/Debug/netcoreapp3.1/integral.pdb
+/Users/sergey/Documents/GitHub/integral/obj/Debug/netcoreapp3.1/integral.csprojAssemblyReference.cache
+/Users/sergey/Documents/GitHub/integral/obj/Debug/netcoreapp3.1/integral.csproj.CoreCompileInputs.cache
+/Users/sergey/Documents/GitHub/integral/obj/Debug/netcoreapp3.1/integral.AssemblyInfoInputs.cache
+/Users/sergey/Documents/GitHub/integral/obj/Debug/netcoreapp3.1/integral.AssemblyInfo.cs
+/Users/sergey/Documents/GitHub/integral/obj/Debug/netcoreapp3.1/integral.dll
+/Users/sergey/Documents/GitHub/integral/obj/Debug/netcoreapp3.1/integral.pdb
+/Users/sergey/Documents/GitHub/integral/obj/Debug/netcoreapp3.1/integral.genruntimeconfig.cache
